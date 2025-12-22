@@ -1,4 +1,4 @@
-    package avant;
+    package SRP.avant;
     
 // Utilisation de la classe Book
     public class main {
